@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tipping.Endpoint", "Tipping.Endpoint\Tipping.Endpoint.csproj", "{55A67BD6-3721-4C55-9315-2863892D10F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tipping.Messages", "Tipping.Messages\Tipping.Messages.csproj", "{0070569A-D885-425C-BD9C-99231EBC993D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tipping.TestHarness.UI", "Tipping.TestHarness.UI\Tipping.TestHarness.UI.csproj", "{B74FE7DB-A321-4351-B613-FA2017A95F70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55A67BD6-3721-4C55-9315-2863892D10F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A67BD6-3721-4C55-9315-2863892D10F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A67BD6-3721-4C55-9315-2863892D10F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A67BD6-3721-4C55-9315-2863892D10F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0070569A-D885-425C-BD9C-99231EBC993D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0070569A-D885-425C-BD9C-99231EBC993D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0070569A-D885-425C-BD9C-99231EBC993D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0070569A-D885-425C-BD9C-99231EBC993D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B74FE7DB-A321-4351-B613-FA2017A95F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B74FE7DB-A321-4351-B613-FA2017A95F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B74FE7DB-A321-4351-B613-FA2017A95F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B74FE7DB-A321-4351-B613-FA2017A95F70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

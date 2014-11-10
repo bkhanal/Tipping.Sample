@@ -1,0 +1,10 @@
+bin
+debug
+obj
+*Resharper*
+*.suo
+*.user
+TestResults
+/packages/
+!packages/repositories.config
+packages
